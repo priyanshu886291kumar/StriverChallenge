@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Post" ALTER COLUMN "date" DROP NOT NULL,
+ALTER COLUMN "language" DROP NOT NULL;
